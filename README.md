@@ -20,10 +20,13 @@
       
             mvn clean install 
       
+      
+  
+  ![cucumber_1](https://user-images.githubusercontent.com/78067017/153468328-fd048bb3-36c4-4cf0-baab-49ca43758550.PNG)
 
-![cucumber](https://user-images.githubusercontent.com/78067017/153467015-bd329954-49c4-4307-acfe-d2cc2d10c465.PNG)
+
+![cucumber_3](https://user-images.githubusercontent.com/78067017/153468370-2dda8ccb-c1af-475e-962b-65f82621abcc.PNG)
 
 
 
-![153038659-3d22d346-1d0e-40f8-aaa2-56098868f54a](https://user-images.githubusercontent.com/78067017/153467169-164a0d01-dfcb-4fc2-bc51-523d24599e23.png)
-
+![cucumber](https://user-images.githubusercontent.com/78067017/153468450-91bc35ba-683f-4ba8-b7f6-d407ccbabb24.PNG)
